@@ -1,0 +1,13 @@
+# Configuration files
+*.env
+*.cfg
+*.conf
+
+# Python-specific
+__pycache__/
+*.py[cod]
+
+output/
+Include/
+Lib/
+Scripts/
